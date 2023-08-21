@@ -1,0 +1,13 @@
+/web/core/
+
+/web/sites/default/files
+
+/web/sites/default/settings.php
+
+/web/modules/contrib/
+
+/web/themes/
+
+/web/profiles/
+
+/vendor
